@@ -61,15 +61,33 @@ h2 {
     text-shadow: 2px 2px #30336b;
 }
 
-h3 {
+.banner h3 {
     color: #dff9fb;
     font-size: 32px;
     margin: 8px 0;
     text-shadow: 2px 2px #30336b;
 }
 
+.lyrics h3 {
+    color: #dff9fb;
+    font-size: 32px;
+    margin: 8px 0;
+    text-shadow: 2px 2px #30336b;
+    text-align: center;
+}
+
 .lyrics span {
     font-weight: bold;
+}
+
+.lyrics img {
+    max-width: 300px;
+    max-height: 250px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+    border-radius: 15px;
+    padding: 0 0 8px 0;
 }
 
 .btn {
