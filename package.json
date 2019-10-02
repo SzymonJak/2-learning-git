@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "nu-html-checker *.html",
+    "prefix": "autoprefixer-cli -o style.prefixed.css css/style.css"
   },
   "repository": {
     "type": "git",
