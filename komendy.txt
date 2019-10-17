@@ -1,7 +1,7 @@
 /* nu-html-checker - komenda sprawdzająca wszystkie pliki html w projekcie*/
 
-	npm run nu-html-checker *.html
+	nu-html-checker *.html
 
 /* autoprefixer-cli - generowanie pliku style.prefixed.css, plik źródłowy w folderze css/ */
 
-	npm run autoprefixer-cli -o style.prefixed.css css/style.css
+	autoprefixer-cli -o style.prefixed.css css/style.css
