@@ -8,6 +8,7 @@ body {
     line-height: 1.7;
     background: #f6e58d;
     color: #30336b;
+    border-top: 8px dashed limegreen;
 }
 
 h1 {
