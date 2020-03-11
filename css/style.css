@@ -76,6 +76,10 @@ h2 {
     text-align: center;
 }
 
+.lyrics h3:last-child {
+    background: magenta;
+}
+
 .lyrics span {
     font-weight: bold;
 }
