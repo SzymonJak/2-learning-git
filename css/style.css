@@ -8,6 +8,7 @@ body {
     line-height: 1.7;
     background: #f6e58d;
     color: #30336b;
+    border-top: 8px dashed limegreen;
 }
 
 h1 {
@@ -74,6 +75,10 @@ h2 {
     margin: 8px 0;
     text-shadow: 2px 2px #30336b;
     text-align: center;
+}
+
+.lyrics h3:last-child {
+    background: magenta;
 }
 
 .lyrics span {
